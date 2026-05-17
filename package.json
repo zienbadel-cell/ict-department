@@ -1,11 +1,11 @@
 {
-  "name": "ict-department",
+  "name": "mbis_ict-department",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "next build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
